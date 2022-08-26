@@ -19,7 +19,7 @@ please contact us so we can promptly obtain parental consent or remove the infor
 Use Information
 
 We generally do not share personally identifiable information (such as name, address, email or phone) with other companies unless approved by you.
-# Ad Tracking
+Ad Tracking
 Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications.
 Interest and location data may be linked to your device,
 but is not linked to your identity. Click to see company privacy policies and opt-out choices:
