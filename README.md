@@ -36,4 +36,4 @@ We will obtain your opt-in consent for any updates to this Privacy Policy that m
 ### Contact
 
 If you have any questions or concerns about our privacy policies, please contact us:
-- e-mail: jinwookim@leaprealm.com
+- e-mail: leaprealm@gmail.com
